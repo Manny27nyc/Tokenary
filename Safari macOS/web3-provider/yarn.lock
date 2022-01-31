@@ -3904,10 +3904,10 @@ isstream@~0.1.2:
   resolved "https://registry.npmjs.org/isstream/-/isstream-0.1.2.tgz"
   integrity sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=
 
-isutf8@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.npmjs.org/isutf8/-/isutf8-3.1.1.tgz"
-  integrity sha512-5P2FgGyDsSnRMaLPVGVIgYgMxj50lBujvi5lsVgP1qvMWhxvkmVBWtPcIKgXw9j+/RnmxSvHg3e9tbDnPxx6dw==
+isutf8@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/isutf8/-/isutf8-4.0.0.tgz#8b0061a96cf896faff3f086d7efa4ae93be8a872"
+  integrity sha512-mJtsQGFfAphKdVuRitEpc0eon4v5fuaB6v9ZJIrLnIyybh02sIIwJ2RQbLMp6UICVCfquezllupZIVcqzGzCPg==
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^3.0.2:
   version "3.0.2"
